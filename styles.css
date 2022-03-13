@@ -12,7 +12,7 @@ body {
   display: flex;
   position: absolute;
   width: 300px;
-  height: 500px;
+  height: 470px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -23,12 +23,13 @@ body {
 }
 .qr-img {
   width: 270px;
-  height: 300px;
+  height: 270px;
   border-radius: 5%;
   margin-top: 15px;
 }
 .paragraph-container {
   padding: 20px;
+  /* margin-top: -10px; */
   text-align: center;
 }
 .paragraph-main {
