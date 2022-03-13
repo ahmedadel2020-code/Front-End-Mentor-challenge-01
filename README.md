@@ -18,18 +18,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/ahmedadel2020-code/Front-End-Mentor-challenge-01)
+- Live Site URL: [Demo](https://ahmedadel2020-code.github.io/Front-End-Mentor-challenge-01/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-
-
+- HTML5
+- CSS
 
 ## Author
 
